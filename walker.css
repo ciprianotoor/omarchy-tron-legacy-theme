@@ -1,0 +1,11 @@
+@define-color selected-text #050A12;
+@define-color text #D9F7FF;
+@define-color base #050A12;
+@define-color border #00C8FF;
+@define-color foreground #D9F7FF;
+@define-color background #0A1824;
+window .box-wrapper { background: @background; border: 2px solid @border; border-radius: 0; padding: 10px; }
+window .search-container { background: @base; border: 1px solid @border; border-radius: 0; padding: 6px; }
+window .input { background: transparent; color: @text; }
+window .search-container text { color: @selected-text; caret-color: @border; }
+child:selected .item-box { background: @border; color: @base; }
