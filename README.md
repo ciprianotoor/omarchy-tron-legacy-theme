@@ -33,6 +33,22 @@ Las fuentes y las condiciones de uso están documentadas en
 `backgrounds/SOURCES.txt`. Son archivos descargados para uso personal local;
 no redistribuyas las imágenes sin permiso.
 
+## Capturas
+
+Estas capturas muestran el tema aplicado en el escritorio, terminal, Walker y
+notificaciones. Se eliminaron datos de red e identidad antes de publicarlas.
+
+![Escritorio TRON: Legacy](screenshots/01-desktop-grid.png)
+
+![Terminal](screenshots/02-terminal.png)
+
+![Walker](screenshots/03-walker.png)
+
+![Notificaciones](screenshots/05-notification.png)
+
+La captura de Chromium se conserva fuera del repositorio hasta corregir su
+color y retirar los accesos personales visibles.
+
 ## Paleta
 
 - Fondo Grid: `#050A12`
