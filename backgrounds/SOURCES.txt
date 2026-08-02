@@ -1,0 +1,45 @@
+# TRON: Legacy wallpaper sources
+#
+# Downloaded previews are included for local, personal use. The images remain
+# the property of their original copyright holders. Do not redistribute this
+# repository with these image files unless you have permission.
+
+01-lightcycles-motion.jpg
+https://wall.alphacoders.com/big.php?i=91235
+https://images3.alphacoders.com/912/thumb-1920-91235.jpg
+
+02-neon-digital-legend.jpg
+https://wall.alphacoders.com/big.php?i=96794
+https://images4.alphacoders.com/967/thumb-1920-96794.jpg
+
+03-lightcycle-duel.png
+https://wall.alphacoders.com/big.php?i=501517
+https://images6.alphacoders.com/501/thumb-1920-501517.png
+
+04-ultimate-neon-ride.jpg
+https://wall.alphacoders.com/big.php?i=387295
+https://images8.alphacoders.com/387/thumb-1920-387295.jpg
+
+05-neon-lightcycle.png
+https://wall.alphacoders.com/big.php?i=643224
+https://images.alphacoders.com/643/thumb-1920-643224.png
+
+06-iconic-lightcycle.jpg
+https://wall.alphacoders.com/big.php?i=143361
+https://images.alphacoders.com/143/thumb-1920-143361.jpg
+
+07-digital-realm.jpg
+https://wall.alphacoders.com/big.php?i=316445
+https://images5.alphacoders.com/316/thumb-1920-316445.jpg
+
+08-futuristic-movie-art.jpg
+https://wall.alphacoders.com/big.php?i=96798
+https://images4.alphacoders.com/967/thumb-1920-96798.jpg
+
+09-digital-adventure.jpg
+https://wall.alphacoders.com/big.php?i=96795
+https://images3.alphacoders.com/967/thumb-1920-96795.jpg
+
+10-tron-legacy-grid.jpg
+https://wall.alphacoders.com/big.php?i=501768
+https://images7.alphacoders.com/501/thumb-1920-501768.jpg

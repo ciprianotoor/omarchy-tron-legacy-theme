@@ -21,23 +21,17 @@ omarchy theme set tron-legacy
 
 ## Fondos
 
-`backgrounds/grid.svg` es un fondo original inspirado en la estética de la
-película. La carpeta también acepta fondos personales de TRON: Legacy en JPG,
-PNG o WEBP; después de copiarlos, usa:
+La carpeta incluye 10 fondos de TRON: Legacy en JPG/PNG, además de
+`backgrounds/grid.svg`, un fondo original inspirado en la estética de la
+película. Después de instalar el tema, usa:
 
 ```bash
 omarchy theme bg next
 ```
 
-Fuentes de referencia para fondos de la película (revisa sus licencias antes
-de redistribuirlos):
-
-- https://wall.alphacoders.com/big.php?i=662497
-- https://www.goodfon.com/films/wallpaper-tron-tron-the-legacy-gonki.html
-- https://www.goodfon.com/minimalism/wallpaper-download-2560x1440-encom-tron-tron-legacy-logo.html
-
-Este repositorio incluye configuraciones originales, pero no redistribuye
-material promocional de Disney ni imágenes de la película.
+Las fuentes y las condiciones de uso están documentadas en
+`backgrounds/SOURCES.txt`. Son archivos descargados para uso personal local;
+no redistribuyas las imágenes sin permiso.
 
 ## Paleta
 
