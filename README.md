@@ -46,9 +46,6 @@ notificaciones. Se eliminaron datos de red e identidad antes de publicarlas.
 
 ![Notificaciones](screenshots/05-notification.png)
 
-La captura de Chromium se conserva fuera del repositorio hasta corregir su
-color y retirar los accesos personales visibles.
-
 ## Paleta
 
 - Fondo Grid: `#050A12`
