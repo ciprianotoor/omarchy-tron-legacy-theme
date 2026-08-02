@@ -54,8 +54,12 @@ color y retirar los accesos personales visibles.
 - Fondo Grid: `#050A12`
 - Cian principal: `#00C8FF`
 - Cian brillante: `#00E5FF`
-- Texto frío: `#D9F7FF`
-- Azul apagado: `#122738`
+- Texto principal de alto contraste: `#E6FAFF`
+- Azul secundario: `#2A4A5C`
+
+El texto normal usa cian casi blanco sobre el fondo negro. Los azules más
+intensos quedan reservados para bordes, selección y elementos destacados, para
+evitar texto azul oscuro difícil de leer.
 
 ## Licencia
 

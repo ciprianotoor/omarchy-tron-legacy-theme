@@ -3,7 +3,7 @@ decorations = "none"
 
 [colors.primary]
 background = "#050A12"
-foreground = "#D9F7FF"
+foreground = "#E6FAFF"
 
 [colors.cursor]
 text = "#050A12"
@@ -15,20 +15,20 @@ background = "#00C8FF"
 
 [colors.normal]
 black = "#050A12"
-red = "#0B5C7A"
-green = "#8DA399"
-yellow = "#B8B6A8"
-blue = "#65737E"
-magenta = "#A86C74"
-cyan = "#8DA399"
-white = "#D9F7FF"
+red = "#00A6C7"
+green = "#8FEFFF"
+yellow = "#B8F5FF"
+blue = "#4CCFFF"
+magenta = "#78DFFF"
+cyan = "#00C8FF"
+white = "#E6FAFF"
 
 [colors.bright]
-black = "#122738"
-red = "#00C8FF"
-green = "#B3C9B6"
-yellow = "#D3D2C5"
-blue = "#8AA7B6"
-magenta = "#D58B94"
-cyan = "#B7D0C1"
+black = "#2A4A5C"
+red = "#00E5FF"
+green = "#B8F5FF"
+yellow = "#E6FAFF"
+blue = "#9AF2FF"
+magenta = "#A8EFFF"
+cyan = "#9AF2FF"
 white = "#FFFFFF"
