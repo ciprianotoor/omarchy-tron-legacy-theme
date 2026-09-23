@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#02050b"/>
+      <stop offset=".65" stop-color="#071321"/>
+      <stop offset="1" stop-color="#02050b"/>
+    </linearGradient>
+    <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="perspective(600px) rotateX(58deg)">
+      <path d="M0 0H120M0 0V120" fill="none" stroke="#00c8ff" stroke-opacity=".22" stroke-width="3"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#sky)"/>
+  <ellipse cx="1920" cy="1500" rx="1450" ry="420" fill="#00c8ff" opacity=".08" filter="url(#glow)"/>
+  <rect y="1130" width="3840" height="1030" fill="url(#grid)"/>
+  <path d="M0 1320H3840" stroke="#00e5ff" stroke-width="8" opacity=".65" filter="url(#glow)"/>
+  <path d="M500 1080L1280 650H2560L3340 1080" fill="none" stroke="#00c8ff" stroke-width="5" opacity=".5" filter="url(#glow)"/>
+  <text x="1920" y="520" text-anchor="middle" fill="#d9f7ff" opacity=".72" font-family="monospace" font-size="72" letter-spacing="24">THE GRID</text>
+  <text x="1920" y="630" text-anchor="middle" fill="#00c8ff" opacity=".7" font-family="monospace" font-size="28" letter-spacing="12">SYSTEM ONLINE // IDENTITY VERIFIED</text>
+</svg>

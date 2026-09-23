@@ -1,3 +1,5 @@
+![TRON Legacy Omarchy Theme](cover.svg)
+
 # TRON: Legacy — Omarchy theme
 
 Tema independiente para Omarchy inspirado en **TRON: Legacy**: fondo negro
